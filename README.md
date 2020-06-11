@@ -14,9 +14,7 @@ Assumptions:
 1.	The Customer can rent gears on Hourly or daily basis. 
 2.	Once the Gear is issued, customer will be charged minimum for at least 1 hour
 3.	Customers can choose any no of bikes but less than inventory count
-Code Area:
-The full Code is available in GitHub. Feel free to check it out and fork for enhancing the capabilities
-https://github.com/AbdulHazari/SKI_RENTAL_House
+
 
 How To Run?
 This code is written is python 3.6
