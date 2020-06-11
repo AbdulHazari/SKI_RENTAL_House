@@ -75,7 +75,7 @@ class SkiGearRental:
             self.inventory += numOfGears
             now = datetime.datetime.now()
             rentalPeriod = now - rentalTime
-            print("The Gear was Rented for duration : {}  Seconds".format(math.ceil(rentalPeriod)))
+            #print("The Gear was Rented for duration : {}  Seconds".format(math.ceil(rentalPeriod)))
            
             # hourly bill calculation
             if rentalBasis == 1:
